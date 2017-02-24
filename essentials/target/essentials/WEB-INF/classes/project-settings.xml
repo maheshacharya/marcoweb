@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project>
+  <projectNamespace>marcoweb</projectNamespace>
+  <confirmParams>false</confirmParams>
+  <selectedProjectPackage>com.marco.web</selectedProjectPackage>
+  <selectedBeansPackage>com.marco.web.beans</selectedBeansPackage>
+  <selectedComponentsPackage>com.marco.web.components</selectedComponentsPackage>
+  <selectedRestPackage>com.marco.web.rest</selectedRestPackage>
+  <setupDone>false</setupDone>
+  <templateLanguage>freemarker</templateLanguage>
+  <useSamples>true</useSamples>
+  <extraTemplates>true</extraTemplates>
+</project>
